@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cf12720-0e91-413e-b2d8-55fdba263ca8" name="Changes" comment="start game">
-      <change afterPath="$PROJECT_DIR$/src/lesson_1/GameWindow.java" afterDir="false" />
+    <list default="true" id="0cf12720-0e91-413e-b2d8-55fdba263ca8" name="Changes" comment="add lesson1">
+      <change afterPath="$PROJECT_DIR$/src/lesson_2/GameWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_2/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_2/drop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson_2/game_over.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.general"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.lesson_2.GameWindow">
     <configuration name="GameWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson_1.GameWindow" />
       <module name="catch_the_drop" />
@@ -53,8 +56,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lesson_2.GameWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_2.GameWindow" />
+      <module name="catch_the_drop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lesson_2.GameWindow" />
         <item itemvalue="Application.GameWindow" />
       </list>
     </recent_temporary>
@@ -75,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716532372665</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add lesson1">
+      <created>1716537866389</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716537866389</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start game" />
-    <option name="LAST_COMMIT_MESSAGE" value="start game" />
+    <MESSAGE value="add lesson1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lesson1" />
   </component>
 </project>
