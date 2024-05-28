@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cf12720-0e91-413e-b2d8-55fdba263ca8" name="Changes" comment="add lesson1">
-      <change afterPath="$PROJECT_DIR$/src/lesson_2/GameWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_2/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_2/drop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_2/game_over.png" afterDir="false" />
+    <list default="true" id="0cf12720-0e91-413e-b2d8-55fdba263ca8" name="Changes" comment="add lesson2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson_2/GameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson_2/GameWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1716537866389</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add lesson2">
+      <created>1716605216449</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716605216449</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start game" />
     <MESSAGE value="add lesson1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson1" />
+    <MESSAGE value="add lesson2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lesson2" />
   </component>
 </project>
